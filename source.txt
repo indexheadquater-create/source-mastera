@@ -289,6 +289,7 @@ Cupid Hotspot
 Chicleteira Bicicleteira
 Brunito Marsito
 Quesadillo Vampiro
+4th Bros
 Flancito
 Eid Eid Eid Sahur
 Luck Luck Luck Sahur
@@ -301,6 +302,7 @@ Los Bunitos
 Los Quesadillas
 Futbolini Skatini
 Noo my Candy
+Var Var Var
 Flipa Sandala
 Arcadopus
 Serafinna Medusella
@@ -376,6 +378,7 @@ W or L
 Los Primos
 Eviledon
 Los Tacoritas
+Bufalino Boomberino
 Lovin Rose
 Esok Goala
 Fragola La La La
@@ -418,6 +421,7 @@ Sammyni Fattini
 Rubrikiko
 Bearito Cabinito
 Los Spaghettis
+Capitano Americano
 Ginger Gerat
 Los Hackers
 La Ginger Sekolah
