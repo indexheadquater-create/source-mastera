@@ -200,6 +200,7 @@ Dumborino Miracello
 Flippo Marino
 Robo Grafito
 Tortuginni Sandcastlini
+Tenini Ballini
 Pretzo Robo
 Jackorilla
 Los Matteos
@@ -366,6 +367,7 @@ Chillin Chili
 Chipso and Queso
 Money Money Reindeer
 Mieteteira Bicicleteira
+Noodle Noodle Poodle
 Tuff Toucan
 Tralaledon
 Gobblino Uniciclino
@@ -415,6 +417,7 @@ Caylusaurus
 La Easter Grande
 Cloverat Clapat
 La Summer Grande
+Grabatron
 Los Tictacs
 Spaghetti Tualetti
 Ventoliero Pavonero
@@ -424,12 +427,14 @@ Festive 67
 Sammyni Fattini
 Rubrikiko
 Bearito Cabinito
+Rubiko and Kubiko
 Los Spaghettis
 Capitano Americano
 Ginger Gerat
 Los Hackers
 La Ginger Sekolah
 Los Chillis
+Cangurato Gelato
 Spooky and Pumpky
 Boppin Bunny
 Sammyni Cakini
